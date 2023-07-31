@@ -1,4 +1,5 @@
 
-# Dynomotions 
+# Dynomotions :t-rex:
 
-Small subset of primitives for running the tests in dynoplan.
+A small set of motion primitives for running the tests in [Dynoplan](https://github.com/quimortiz/dynoplan) :t-rex:
+
